@@ -1,1 +1,6 @@
-# ConsultingDataProject
+# Chinue X Project: Digital Revamp  
+This is my 2nd data project.  
+This client project was completed with 10+ team members during my data analytics apprenticeship. The purpose of this project was to perform pro bono work for a small business to help meet their business goals or needs. Virtual meetings were conducted with the client to discuss their goals and what sorts of data they had that our team could analyze to provide insights and cost-effective recommendations to increase website traffic and find funding resources. Multiple meetings were held with our team each week to track everyone's progress and provide any updates on research, data findings, etc.  
+Our team divided into groups that focused on the brand's current situation, opportunities of growth, and final recommendations that addressed the client's goals. This project dealt with more limited data than my 1st data project but our team made this an opportunity to incorporate a marketing research and consulting approach into the project. We provided the client with helpful free resources, funding opportunities, and strategies to increase brand awareness.  
+At the end, we presented our project to the client. Our team ensured using clear and concise communication so that our client would clearly understand.
+Overall, this project was really good practice on how I would be able to assist future clients who may have limited data.
